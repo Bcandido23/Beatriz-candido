@@ -1,8 +1,25 @@
 h1{
-    color:blue;
+    color:purple;
     font-family: 'Lobster', cursive;
-    
 }
 h2{ 
-    color:red;
+    color:purple;
+}
+img {
+    width:300px;
+    height:200px;
+    border:dashed white;
+}
+html {
+    background-color:pink;
+}
+li {
+    font-family: 'Lobster Two', cursive;
+    color:brown;
+}
+a{
+    font-family: 'Lobster Two', cursive;
+}
+h2{
+    font-family: 'Fredoka One', cursive;
 }
